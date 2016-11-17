@@ -1,4 +1,4 @@
-# ngix-proxy-cache
+# nginx-proxy-cache
 A simple nginx proxy-cache server
 
 How to:
